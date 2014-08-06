@@ -199,3 +199,74 @@ Finish
 Exploit
 Analyze
 Disseminate
+
+Framing Construct
+=================
+
+Operational Variables
+---------------------
+
+:mnenomic: PMESII-PT
+
+Political
+Military
+Economic
+Social
+Information
+Infrastructure
+Physical Environment
+
+ASCOPE
+------
+
+:reference: FM 2-0.1
+
+Area
+Structure, *analyze with SWEAT-MSOU*
+Capabilities, *analyze with SWEAT-MSOU*
+Organizations
+People
+Events
+
+Mission Variables
+-----------------
+
+:mnenomic: METT-TC
+
+Mission, *analyze with TCAPE*
+Enemy, *analyze with IPB*
+Terrain and Weather, *analyze with OAKOC*
+Troops
+Time Available
+Civil Considerations
+
+TCAPE
+-----
+
+Tactical
+Conflict
+Assessment
+Planning
+Framework
+
+Intelligence Preparation of the Battlefield,
+-------------------------------------------
+
+:reference: FM 2-0.1
+
+1. Define the operational environment
+2. Describe the effects of the operational environment
+3. Evaluate the Threat
+4. Determine the threat course of action
+
+
+OAKOC
+-----
+
+:reference: FM 2-0.1
+
+Obstacles
+Avenues of Approach
+Key Terrain
+Observations and Fields of Fire
+Cover and Concealment
