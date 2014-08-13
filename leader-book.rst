@@ -270,3 +270,42 @@ Avenues of Approach
 Key Terrain
 Observations and Fields of Fire
 Cover and Concealment
+
+Army Planning Methodologies
+===========================
+
+:reference: ADP 3-0
+
+Lead -> Understand -> Visualize Describe -> Direct -> Assess
+
+Army Design Methodology
+-----------------------
+
+Critical and Creative Thinking
+Collaboration and Dialogue
+Framing
+Narrative Construction
+Visual Modeling
+
+Military Decision Making Process
+--------------------------------
+
+Receipt of Mission
+Mission Analysis
+Course of aciton Development
+Course of Actiokn Analysis
+Course of Action Comparison
+Course of Action Approval
+Orders Production
+
+Troop Leading Procedures
+------------------------
+
+Receive the Mission
+Issue a warning Order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Refine the Plan
