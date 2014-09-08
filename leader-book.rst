@@ -309,3 +309,30 @@ Conduct Reconnaissance
 Complete the Plan
 Issue the Order
 Supervise and Refine the Plan
+
+
+Mission Command Systems
+=======================
+
+:reference: ADP 3-0
+
+Personnel
+Networks
+Information Systems
+Processes and Procedures
+Faciliteis and Equipment
+
+Elements of Combat Power
+========================
+
+:reference: ADRP 3-0
+
+Warfighting Functions
+---------------------
+
+Mission Command
+Movement and Maneuver
+Intelligence
+Fires
+Sustainment
+Protection
