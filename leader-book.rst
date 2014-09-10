@@ -55,7 +55,7 @@ Initiative
 TODO: What goes here?
 
 Operation Structure
-==================
+===================
 
 :reference: ADP 3-0
 
@@ -80,7 +80,7 @@ Provide basic options for visualizing and describing operations
 * Main and Supporting Efforts
 
 Warfighting Functions
--------------------
+---------------------
 
 Provide intellectual organization for common critical tasks.
 
@@ -250,7 +250,7 @@ Planning
 Framework
 
 Intelligence Preparation of the Battlefield,
--------------------------------------------
+--------------------------------------------
 
 :reference: FM 2-0.1
 
@@ -336,3 +336,103 @@ Intelligence
 Fires
 Sustainment
 Protection
+
+Elements of Decisive Action
+===========================
+
+:reference: ADRP 3-90
+
+Characteristics of the Offense
+------------------------------
+
+Audacity
+Concentration
+Surprise
+Tempo
+
+Primary Offensive Tasks
+-----------------------
+
+Movement to contact
+Attack
+Exploitation
+Pursuit
+
+Combat Formations
+-----------------
+
+Column
+Line
+Echelon (Left or Right)
+Box
+Diamond
+Wedge
+Vee
+
+Forms of Maneuver
+-----------------
+
+Envelopment
+Flank Attack
+Frontal Attack
+Infiltration
+Pentration
+Turning Movement
+
+Forms of the Attack
+-------------------
+
+Ambush
+Counterattack
+Demonstration
+Feint
+Raid
+Spoiling Attack
+
+Eight Forms of Contact
+----------------------
+
+Visual
+Obstacle
+Direct
+Indirect
+Aircraft
+CBRN
+Non-hostile
+EW
+
+Characteristics of the Defense
+------------------------------
+
+Disruption
+Flexibility
+Maneuver
+Mass
+and Concentration
+Operations in Depth
+Preparation
+Security
+
+Forms of Defense
+----------------
+
+Defense of a Linear Obstacle
+Perimeter Defense
+Reverse Slope Defense
+
+
+Defensive Tasks
+---------------
+
+Area Defense
+Mobile Defense
+Retrograde (Delay, Withdrawl, Retirement)
+
+Battle Positions
+----------------
+
+Primary
+Alternate
+Supplementary
+Subsequent
+Strongpoint
